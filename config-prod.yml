@@ -1,1 +1,2 @@
-prod
+config:
+  info: 3355-HelloWorld-prod
